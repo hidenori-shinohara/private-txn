@@ -1,10 +1,12 @@
 1,1,0,main.c1
 2,2,0,main.c2
 3,3,0,main.c3
-4,4,0,main.m1
+4,-1,0,main.m1
 5,-1,0,main.r1
-6,5,0,main.m2
+6,-1,0,main.m2
 7,-1,0,main.r2
 8,-1,0,main.m3
-9,6,0,main.r3
-10,7,0,main.fee
+9,-1,0,main.r3
+10,-1,0,main.fee
+11,4,0,main.sign2
+12,5,0,main.sign3
