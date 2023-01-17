@@ -6,6 +6,7 @@
 !/Makefile
 !private-txn.circom
 !input.json
+!/README.md
 # etc...
 
 # ...even if they are in subdirectories
