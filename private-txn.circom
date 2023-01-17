@@ -22,10 +22,6 @@ template PrivateTxn() {
     signal output c3;
     c1 <== commit(m1, r1);
     c2 <== commit(m2, r2);
-
-    // I have absolutely no idea
-    // but if I change this to commit(m3, r3)
-    // it doesn't compile... ????
     c3 <== commit(m3, r3);
 
     // * A has m1 dollars.
