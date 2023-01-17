@@ -5,6 +5,7 @@
 !.gitignore
 !/Makefile
 !private-txn.circom
+!input.json
 # etc...
 
 # ...even if they are in subdirectories
